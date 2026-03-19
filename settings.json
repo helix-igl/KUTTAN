@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "nammakerala.aternos.me",
+    "ip": "nammakerala.aternos.me:47956",
     "port": 47956,
     "version": "",
     "try-creative": false
